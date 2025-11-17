@@ -188,8 +188,8 @@ Examples: Sample scripts for common use cases.
 <b>License: </b>ScreenBot 4.0 is licensed under the MIT License (LICENSE). The Free version is open for personal and commercial use, while the Professional version requires a one-time purchase for WebUI access.
 
 Download Now:
-Free: [(#freedownload)](https://evandervictor.gumroad.com/l/screenbot)
-Pro: [(#prodownload)](https://github.com/Evic7/screenbot/releases/tag/v4.0)
+Free: [(#prodownload)](https://evandervictor.gumroad.com/l/screenbot)  <br>
+Pro: [(#freedownload)](https://github.com/Evic7/screenbot/releases/tag/v4.0)
 
 
 
