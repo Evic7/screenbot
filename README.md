@@ -76,7 +76,9 @@ RAM: 4 GB minimum (8 GB recommended)
 Disk Space: 250 MB
 Dependencies: .NET Framework 4 or later
 
-Steps Download: Get ScreenBot 4.0 pro from  [(#)](https://evandervictor.gumroad.com/l/screenbot)
+Steps Download: 
+ScreenBot 4.0  [(#)](https://github.com/Evic7/screenbot/releases/tag/v4.0)
+ScreenBot 4.0 pro   [(#)](https://evandervictor.gumroad.com/l/screenbot)
 Extract: Unzip to a directory and run the installation
 Optional: Add the directory to your system’s PATH for CLI access.
 Verify: Run screenbot4 --version to confirm installation.
@@ -185,7 +187,9 @@ Examples: Sample scripts for common use cases.
 
 <b>License: </b>ScreenBot 4.0 is licensed under the MIT License (LICENSE). The Free version is open for personal and commercial use, while the Professional version requires a one-time purchase for WebUI access.
 
-Download Pro Now:[(#)](https://evandervictor.gumroad.com/l/screenbot)
+Download Now:
+Free: [(#)](https://evandervictor.gumroad.com/l/screenbot)
+Pro: [(#)](https://github.com/Evic7/screenbot/releases/tag/v4.0)
 
 
 
