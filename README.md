@@ -183,13 +183,9 @@ Examples: Sample scripts for common use cases.
 
  <b>Contributing: We welcome contributions to ScreenBot 4.0! </b>
 
-<b>License: </b>ScreenBot 4.0 is licensed under the MIT License (LICENSE). The Free version is open for personal and commercial use, while the Professional version requires a one-time purchase for WebUI access. SupportDocumentation: ScreenBot 4.0 Help File (docs/SCREENBOT4_HELP.md)
-Community: Join our Discord (#) or GitHub Discussions (#) for tips and support.
-Contact: Reach out via support email/website (#).
-Issues: Report bugs or feature requests in the Issues (#) section.
+<b>License: </b>ScreenBot 4.0 is licensed under the MIT License (LICENSE). The Free version is open for personal and commercial use, while the Professional version requires a one-time purchase for WebUI access.
 
- Start Automating Today!ScreenBot 4.0 is your gateway to smarter, faster, and more efficient Windows automation. Whether you're using the Free version for personal projects or the Professional version for enterprise-grade remote workflows, ScreenBot empowers you to work smarter, not harder.Download Now:[(#)](https://evandervictor.gumroad.com/l/screenbot)
-Professional Pricing: Visit x.ai/grok for details.Happy Automating!
-Join the automation revolution with ScreenBot 4.0!
+Download Pro Now:[(#)](https://evandervictor.gumroad.com/l/screenbot)
+
 
 
